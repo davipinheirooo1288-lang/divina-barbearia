@@ -1,5 +1,3 @@
 {
-  "version": 2,
-  "framework": "tanstack-start",
-  "outputDirectory": ".output"
+  "framework": "tanstack-start"
 }
